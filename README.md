@@ -67,7 +67,7 @@ http://download.virtualbox.org/virtualbox/5.0.10/VBoxGuestAdditions_5.0.10.iso
 
 ## Running and modifying the tests:
 
-Finally, we've gotten to the part you've been waiting for, running and modifying the tests; First: take a read through the cucumber book, provided in this repository, this is the font of all things cucumber and should be your go-to guide for how to write cucumber-based frameworks in Ruby. Each test is run using the following command:
+Finally, we've gotten to the part you've been waiting for, running and modifying the tests; First: take a read through the cucumber book provided in this repository, this is the font of all things cucumber and should be your go-to guide for how to write cucumber-based frameworks in Ruby. Each test is run using the following command:
 
 `cucumber`
 
