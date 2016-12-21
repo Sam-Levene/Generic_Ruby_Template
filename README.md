@@ -1,6 +1,6 @@
 # How To Start Writing Test Automation in Ruby
 
-## Installing Oravle VM VirtualBox on your Win7 Laptop:
+## Installing Oracle VM VirtualBox on your Win7 Laptop:
 
 http://download.virtualbox.org/virtualbox/5.1.12/VirtualBox-5.1.12-112440-Win.exe
 
