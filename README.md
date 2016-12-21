@@ -28,6 +28,8 @@ This should install RVM for you, just close and re-open the Terminal and type th
 
 Once that's successfuly done, you'll need Ruby. To do that, you need to type the following:
 
+`/bin/bash --login` so that you can login as an authorised user on the bash terminal
+
 `rvm install ruby-x` (Replace "x" with version number, to list all known version numbers, first type `rvm list known`)
 
 You'll now need to ensure you "use" the installation of Ruby you just installed by typing:
