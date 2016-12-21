@@ -48,6 +48,16 @@ Once git is installed, you can now clone this directory by typing the following:
 
 `git clone https://github.com/Sam-Levene/Generic_Ruby_Template.git`
 
+Next, ensure you're in the directory that you've just created by typing the following:
+
+`cd Generic_Ruby_Template`
+
+OR
+
+`cd ~\Generic_Ruby_Template`
+
+Either one works.
+
 ## Setting up the environment:
 
 Finally we can get starrted with the setup; by installing our first Ruby Gems; add-ons that will allow us to work the Cucumber framework by typing the following:
