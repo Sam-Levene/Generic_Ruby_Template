@@ -63,7 +63,7 @@ http://askubuntu.com/questions/510056/how-to-install-google-chrome
 https://developers.supportbee.com/blog/setting-up-cucumber-to-run-with-Chrome-on-Linux/
 (Change the install in this second link from 2.10 to 2.26 as this is the latest version)
 
-Ensure you have guest additions installed; by downloading the following iso and istalling it onto your VM:
+Ensure you have guest additions installed; by downloading the following iso and installing it onto your VM:
 
 http://download.virtualbox.org/virtualbox/5.0.10/VBoxGuestAdditions_5.0.10.iso
 
